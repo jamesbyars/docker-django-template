@@ -1,2 +1,4 @@
 .idea
 djangotemplate/__pycache__
+accounts/migrations/__pycache__
+accounts/__pycache__
